@@ -37,10 +37,8 @@ export default function LoginPage() {
         {/* Logo */}
         <div className="text-center mb-8">
           <Link to="/" className="inline-flex items-center gap-2">
-            <div className="w-10 h-10 rounded-2xl bg-white/20 flex items-center justify-center">
-              <span className="text-white font-bold font-heading">PX</span>
-            </div>
-            <span className="text-white font-bold text-xl font-heading">ProXmart</span>
+            <img src="/assets/brand/logo.jpeg" alt="Dukandar" className="w-10 h-10 rounded-2xl object-cover" />
+            <span className="text-white font-bold text-xl font-heading">Dukandar</span>
           </Link>
           <p className="text-blue-300 text-sm mt-2">Premium E-Commerce Store</p>
         </div>

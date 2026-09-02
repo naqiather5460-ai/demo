@@ -42,7 +42,7 @@ export default function OrderConfirmationPage() {
               <span className="text-4xl">🎉</span>
             </div>
             <h1 className="text-white text-2xl font-bold font-heading mb-1">Order Placed Successfully!</h1>
-            <p className="text-emerald-100 text-sm">Thank you for shopping with ProXmart</p>
+            <p className="text-emerald-100 text-sm">Thank you for shopping with Dukandar</p>
           </div>
 
           <div className="p-6 space-y-5">

@@ -37,11 +37,9 @@ export default function AdminLayout() {
         {/* Logo */}
         <div className="p-5 border-b border-slate-800">
           <div className="flex items-center gap-2.5">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-purple-600 to-blue-600 flex items-center justify-center">
-              <span className="text-white font-bold text-sm font-heading">PX</span>
-            </div>
+            <img src="/assets/brand/logo.jpeg" alt="Dukandar" className="w-9 h-9 rounded-xl object-cover" />
             <div>
-              <span className="text-white font-bold text-sm font-heading block leading-tight">ProXmart</span>
+              <span className="text-white font-bold text-sm font-heading block leading-tight">Dukandar</span>
               <span className="text-purple-400 text-[10px] font-medium uppercase tracking-wider">Admin Panel</span>
             </div>
           </div>

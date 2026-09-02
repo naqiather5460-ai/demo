@@ -9,10 +9,8 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-blue-600 to-blue-400 flex items-center justify-center">
-                <span className="text-white font-bold text-sm font-heading">PX</span>
-              </div>
-              <span className="text-white font-bold text-xl font-heading">ProXmart</span>
+              <img src="/assets/brand/logo.jpeg" alt="Dukandar" className="w-10 h-10 rounded-xl object-cover" />
+              <span className="text-white font-bold text-xl font-heading">Dukandar</span>
             </div>
             <p className="text-sm leading-relaxed text-gray-400 mb-5">
               Your trusted destination for premium sanitary, hardware, medical, and household products. Quality you can count on.
@@ -122,7 +120,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-slate-800 py-5 flex flex-col sm:flex-row justify-between items-center gap-3 text-xs text-gray-500">
-          <span>© 2024 ProXmart. All rights reserved.</span>
+          <span>© 2026 Dukandar. All rights reserved.</span>
           <div className="flex gap-4">
             <a href="#" className="hover:text-gray-300 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-gray-300 transition-colors">Terms of Service</a>

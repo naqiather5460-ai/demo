@@ -308,7 +308,7 @@ export default function HomePage() {
       {/* Why Choose Us */}
       <section className="py-16 bg-blue-950 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-blue-400 text-sm font-semibold uppercase tracking-widest mb-2">Why ProXmart</p>
+          <p className="text-blue-400 text-sm font-semibold uppercase tracking-widest mb-2">Why Dukandar</p>
           <h2 className="text-3xl font-bold font-heading mb-4">Pakistan's Most Trusted Store</h2>
           <p className="text-blue-200 max-w-xl mx-auto mb-12 text-sm">From premium sanitary fittings to medical supplies — every product is genuine, quality-tested, and backed by our satisfaction guarantee.</p>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-6">

@@ -7,7 +7,7 @@ export default function AboutPage() {
       <div className="bg-gradient-to-br from-blue-950 via-blue-900 to-slate-900 text-white py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 text-center">
           <p className="text-blue-400 text-sm font-semibold uppercase tracking-widest mb-3">Our Story</p>
-          <h1 className="text-4xl sm:text-5xl font-bold font-heading mb-5">About ProXmart</h1>
+          <h1 className="text-4xl sm:text-5xl font-bold font-heading mb-5">About Dukandar</h1>
           <p className="text-blue-200 text-lg leading-relaxed max-w-2xl mx-auto">
             Pakistan's trusted destination for premium sanitary, hardware, medical, and household products.
             Built on trust, quality, and service excellence since 2020.
@@ -37,7 +37,7 @@ export default function AboutPage() {
             <p className="text-blue-600 text-sm font-semibold uppercase tracking-wider mb-2">Our Mission</p>
             <h2 className="text-3xl font-bold text-gray-900 font-heading mb-4">Delivering Quality You Can Trust</h2>
             <p className="text-gray-600 leading-relaxed mb-4">
-              ProXmart was founded with a simple goal: make premium products accessible to every home and business in Pakistan. We believe quality shouldn't be a luxury — it should be the standard.
+              Dukandar was founded with a simple goal: make premium products accessible to every home and business in Pakistan. We believe quality shouldn't be a luxury — it should be the standard.
             </p>
             <p className="text-gray-600 leading-relaxed">
               From professional-grade surgical instruments to everyday household essentials, every product on our platform is carefully sourced, quality-tested, and backed by our satisfaction guarantee.
@@ -88,7 +88,7 @@ export default function AboutPage() {
         <div>
           <div className="text-center mb-8">
             <p className="text-blue-600 text-sm font-semibold uppercase tracking-wider mb-2">Our Team</p>
-            <h2 className="text-3xl font-bold text-gray-900 font-heading">The People Behind ProXmart</h2>
+            <h2 className="text-3xl font-bold text-gray-900 font-heading">The People Behind Dukandar</h2>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-5">
             {[

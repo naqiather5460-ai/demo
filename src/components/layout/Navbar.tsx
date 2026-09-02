@@ -61,12 +61,10 @@ export default function Navbar() {
 
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2 shrink-0">
-              <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-blue-800 to-blue-600 flex items-center justify-center shadow-md">
-                <span className="text-white font-bold text-sm font-heading">PX</span>
-              </div>
+              <img src="/assets/brand/logo.jpeg" alt="Dukandar" className="w-10 h-10 rounded-xl object-cover shadow-md" />
               <div className="hidden sm:block">
-                <span className="text-blue-900 font-bold text-lg leading-none font-heading block">ProXmart</span>
-                <span className="text-gray-400 text-[10px] tracking-widest uppercase block">Premium Store</span>
+                <span className="text-blue-900 font-bold text-lg leading-none font-heading block">Dukandar</span>
+                <span className="text-gray-400 text-[10px] tracking-widest uppercase block">Your Local Marketplace</span>
               </div>
             </Link>
 
